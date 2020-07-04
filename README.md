@@ -1,1 +1,2 @@
 # jdbc_study
+properties两个文件中password填写自己的密码
